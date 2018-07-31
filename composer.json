@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cboden/ratchet": "^0.4.1",
+        "statickidz/php-google-translate-free": "^1.0"
+    }
+}
